@@ -1,7 +1,7 @@
 # OVERVIEW
-This project uses a [subset of IMDB listed movies](https://github.com/hellums/lacey-bacon/blob/root/watchlist.txt) and actors from Hallmark original movies, romantic comedies, mysteries, and dramas.  
+This project uses a [subset of IMDB listed movies](https://github.com/hellums/lacey-bacon/blob/root/watchlist.txt) and actors from Hallmark original movies, romantic comedies, mysteries, and dramas. 
 
-This repo is the result of a [Code Louisville](https://www.codelouisville.org/) course on Python programming and data analysis. It is a Flask version of a CLI program and uses data generated from it. All images and websites shown here belong to the original copyright holders and are used for academic and demonstration purposes only. Source and derived data is [publicly available and courtesy of IMDB](https://www.imdb.com/interfaces/).
+This repo is the result of a [Code Louisville](https://www.codelouisville.org/) course on Python programming and data analysis. It is a Flask version of a CLI program and uses data generated from it, and includes a Docker container. All websites and images shown here belong to the original copyright holders and are used for academic and demonstration purposes only. Source and derived data is [publicly available and courtesy of IMDB](https://www.imdb.com/interfaces/).
 
 ## FLASK WEB WALKTHROUGH VIDEO
 [<img alt="romcomWeb video walkthrough" width="600px" src="images/romcomWeb.jpg" />](https://screencast-o-matic.com/watch/c3e6FLVFY4v)
