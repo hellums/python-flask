@@ -24,7 +24,7 @@ Perform same steps as above, except replace the "source env/bin/activate" comman
 
 ## Clean Up
 - To get everything back to normal and remove files, type deactivate, then remove the lacey-bacon directory. Your system will be back to normal, as before the test.
-- 
+
 # Project-Related Github Pages
 - [Kanban board](https://github.com/hellums/lacey-bacon/projects/1) for managing project schedule
 - [Issues](https://github.com/hellums/lacey-bacon/issues) for incident management
