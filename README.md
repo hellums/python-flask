@@ -22,6 +22,9 @@ If using VSC, a DOS command prompt terminal is highly recommended, NOT PowerShel
 Perform same steps as above, except replace the "source env/bin/activate" command in step 4 with 
   - >env\Scripts\activate (or activate.bat)
 
+## To build a local Docker container: 
+- > docker build -t python-flask .
+
 ## Clean Up
 - To get everything back to normal and remove files, type deactivate, then remove the lacey-bacon directory. Your system will be back to normal, as before the test.
 
