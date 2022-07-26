@@ -1,7 +1,7 @@
 # OVERVIEW
-This project uses a [subset of IMDB listed movies](https://github.com/hellums/lacey-bacon/blob/root/watchlist.txt) and actors from Hallmark original movies, romantic comedies, mysteries, and dramas. Frontend is Flask/Jinja2, backend is Python, database is Sqlite.
+This project uses a [subset of IMDB listed movies](https://github.com/hellums/lacey-bacon/blob/root/watchlist.txt) and actors from Hallmark original movies, romantic comedies, mysteries, and dramas. Backend HTML/CSS rendering comes via Flask/Jinja2, with a Sqlite database.
 
-This repo is the result of a [Code Louisville](https://www.codelouisville.org/) course on Python programming and data analysis. It is a Flask version of a CLI program (lacey-bacon) and uses data generated from it, and includes a Docker container. All websites and images shown here belong to the original copyright holders and are used for academic and demonstration purposes only. Source and derived data is [publicly available and courtesy of IMDB](https://www.imdb.com/interfaces/).
+This repo is a Flask version of a CLI program (lacey-bacon) and uses data generated from it, and includes a Docker container. All websites and images shown here belong to the original copyright holders and are used for academic and demonstration purposes only. Source and derived data is [publicly available and courtesy of IMDB](https://www.imdb.com/interfaces/).
 
 ## VIDEO WALKTHROUGH
 [<img alt="romcomWeb video walkthrough" width="600px" src="images/romcomWeb.jpg" />](https://screencast-o-matic.com/watch/c3e6FLVFY4v)
@@ -27,9 +27,3 @@ Perform same steps as above, except replace the "source env/bin/activate" comman
 
 ## Clean Up
 - To get everything back to normal and remove files, type deactivate, then remove the python-flask directory. Your system will be back to normal, as before the test.
-
-# Project-Related Github Pages (from original project, lacey-bacon)
-- [Kanban board](https://github.com/hellums/lacey-bacon/projects/1) for managing project schedule
-- [Issues](https://github.com/hellums/lacey-bacon/issues) for incident management
-- [Wiki](https://github.com/hellums/lacey-bacon/wiki/Data-Analytics-Course-Project) for related project links and information
-
